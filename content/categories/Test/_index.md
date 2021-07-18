@@ -1,6 +1,6 @@
 ---
 title: "LTA Updates"
-description: "This is an example category"
+description: "All Linux to Apples "
 slug: "test"
 image: "hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
 style:
