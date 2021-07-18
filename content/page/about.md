@@ -14,6 +14,6 @@ menu:
         pre: user
 ---
 
-Linux to Apples is a place for GNU/Linux enthusiasts to learn and discover anything FOSS related. FOSS is an abbreviation for Free and Open Source Software, which is software that not only is free in price, but free as in freedom. When you use FOSS, you truly own the software, but when you use proprietary software, it owns you! You have no control or freedom over anything proprietary. FOSS is already making a positive impact on the world, but it's up to us GNU/Linux enthusiasts to spread the word across the world, which is why I made this website, so begginers and enthusiasts alike can learn more about Linux and why we shouldn't 
+Linux to Apples is a place for GNU/Linux enthusiasts to learn and discover anything FOSS related. FOSS is an abbreviation for Free and Open Source Software, which is software that not only is free in price, but free as in freedom. When you use FOSS, you truly own the software, but when you use proprietary software, it owns you! You have no control or freedom over anything proprietary. FOSS is already making a positive impact on the world, but it's up to us GNU/Linux enthusiasts to spread the word across the world, which is why I made this website, so begginers and enthusiasts alike can learn more about Linux and why we shouldn't
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
