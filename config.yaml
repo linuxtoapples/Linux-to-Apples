@@ -25,8 +25,8 @@ params:
     emoji: "\U0001F365"
     subtitle: 'Linux to Apples is a place for GNU/Linux enthusiasts to learn and discover anything FOSS related'
     avatar:
-      local: true
-      src: img/avatar.png
+      local: false
+      src: https://raw.githubusercontent.com/linuxtoapples/Linux-to-Apples/master/ltalogo.png
   article:
     math: false
     toc: true
