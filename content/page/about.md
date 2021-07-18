@@ -14,6 +14,6 @@ menu:
         pre: user
 ---
 
-Linux to Apples is a place for GNU/Linux enthusiasts to learn and discover anything FOSS related. FOSS is an abbreviation
+Linux to Apples is a place for GNU/Linux enthusiasts to learn and discover anything FOSS related. FOSS is an abbreviation for Free and Open Source Software
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
