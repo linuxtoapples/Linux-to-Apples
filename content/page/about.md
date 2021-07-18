@@ -14,6 +14,6 @@ menu:
         pre: user
 ---
 
-Linux to Apples is a place to discover
+Linux to Apples is a place to discover 
 
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
