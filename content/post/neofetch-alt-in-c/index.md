@@ -5,7 +5,8 @@ date: 2021-07-17
 slug: neofetch-alt-in-c
 # image:
 categories:
-    - C
-    - TUI
+    - C Language
+    - Terminal
+    - TUI Applications
     - Bash
 ---
