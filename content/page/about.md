@@ -6,7 +6,7 @@ aliases:
   - about-us
   - about-hugo
   - contact
-license: LiscenMIT
+license: Licensed by MIT
 lastmod: '2021-07-17'
 menu:
     main: 
