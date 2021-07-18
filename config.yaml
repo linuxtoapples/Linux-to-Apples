@@ -34,7 +34,7 @@ params:
       enabled: true
       default: Licensed under MIT
   comments:
-    enabled: true
+    enabled: false
     provider: disqus
     utterances:
       repo: null
