@@ -1,0 +1,67 @@
+stackbitVersion: ~0.3.0
+ssgName: hugo
+publishDir: public
+dataDir: data
+pagesDir: content
+assets:
+  referenceType: static
+  staticDir: static
+  uploadDir: assets
+  publicPath: /
+models:
+  external:
+    type: data
+    label: External
+    file: external.yaml
+    fields:
+      - type: list
+        name: Vibrant
+        label: Vibrant
+        items:
+          type: object
+          fields:
+            - type: string
+              name: src
+              label: Src
+            - type: string
+              name: integrity
+              label: Integrity
+            - type: string
+              name: type
+              label: Type
+      - type: list
+        name: PhotoSwipe
+        label: Photo Swipe
+        items:
+          type: object
+          fields:
+            - type: string
+              name: src
+              label: Src
+            - type: string
+              name: integrity
+              label: Integrity
+            - type: string
+              name: type
+              label: Type
+            - type: boolean
+              name: defer
+              label: Defer
+      - type: list
+        name: KaTeX
+        label: Ka Te X
+        items:
+          type: object
+          fields:
+            - type: string
+              name: src
+              label: Src
+            - type: string
+              name: integrity
+              label: Integrity
+            - type: string
+              name: type
+              label: Type
+            - type: boolean
+              name: defer
+              label: Defer
