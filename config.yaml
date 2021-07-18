@@ -57,7 +57,7 @@ params:
       visitor: null
       avatar: null
       emoji:
-        - 'https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo'
+        - '🍎'
       requiredMeta:
         - name
         - email
