@@ -1,6 +1,6 @@
 ---
-title: Chinese Test
-description: 这是一个副标题
+title: First Linux to Apples post!
+description: This is the very first post on the Linux to Apples websites,
 date: 2021-07-17
 slug: first-post
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
