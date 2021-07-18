@@ -1,4 +1,4 @@
 ---title: C Language
-# slug: c-language
+slug: c-language
 image: http://programmerspoint.in/images/c-programming-course.png
 ---
