@@ -1,6 +1,6 @@
 ---
 title: Neofetch alternative written in C
-description: Neofetch is great, but Fastfetch is better!
+description: Neofetch is great and all, but have you seen Fastfetch? It's simply amazing!
 date: 2021-07-17
 slug: neofetch-alt-in-c
 # image:
