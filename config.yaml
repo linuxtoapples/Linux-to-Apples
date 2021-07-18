@@ -1,4 +1,4 @@
-baseurl: '/Linux-to-Apples'
+baseurl: '/Linux-to-Apples/'
 languageCode: en-us
 theme: stack
 paginate: 5
