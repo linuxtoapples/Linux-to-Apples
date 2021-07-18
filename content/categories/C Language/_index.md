@@ -1,4 +1,4 @@
 ---title: C Language
 slug: c-language
-image: http://programmerspoint.in/images/c-programming-course.png
+image: https://miro.medium.com/max/1080/1*v4o2AXLIJaHSZmqYZk26qA.jpeg
 ---
