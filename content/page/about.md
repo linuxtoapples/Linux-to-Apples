@@ -1,7 +1,7 @@
 ---
 title: About
 description: Hi! I'm Samuel, the creator of this website.
-date: '2019-02-28'
+date: '2021-07-17
 aliases:
   - about-us
   - about-hugo
