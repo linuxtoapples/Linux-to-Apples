@@ -6,5 +6,5 @@ slug: neofetch-alt-in-c
 # image:
 categories:
     - C
-    - TUI
+    - TUI Applications
 ---
