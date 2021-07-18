@@ -7,7 +7,7 @@ aliases:
   - about-hugo
   - contact
 license: MIT
-lastmod: '2020-10-09'
+lastmod: '2021-07-17'
 menu:
     main: 
         weight: -90
