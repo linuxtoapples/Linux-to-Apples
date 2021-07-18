@@ -19,8 +19,8 @@ params:
     since: 2021
     customText: null
   dateFormat:
-    published: 'Jan 02, 2006'
-    lastUpdated: 'Jul 02, 2006 00:44 PST'
+    published: 'Jul 07, 2021'
+    lastUpdated: 'Jul 07, 2021 00:44 PST'
   sidebar:
     emoji: "🍎"
     subtitle: 'Linux to Apples is a place for GNU/Linux enthusiasts to learn and discover anything FOSS related'
