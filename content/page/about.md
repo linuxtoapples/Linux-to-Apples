@@ -6,7 +6,7 @@ aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
+license: MIT
 lastmod: '2020-10-09'
 menu:
     main: 
