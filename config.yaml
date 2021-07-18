@@ -1,4 +1,4 @@
-baseurl: 'https://example.com'
+baseurl: '/Linux-to-Apples'
 languageCode: en-us
 theme: stack
 paginate: 5
