@@ -16,7 +16,7 @@ params:
   rssFullContent: true
   favicon: null
   footer:
-    since: 2020
+    since: 2021
     customText: null
   dateFormat:
     published: 'Jan 02, 2006'
