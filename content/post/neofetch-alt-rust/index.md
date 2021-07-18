@@ -1,6 +1,6 @@
 ---
-title: Chinese Test
-description: 这是一个副标题
+title: Neofetch alternative written in 
+description:
 date: 2021-07-17
 slug: neofetch-alt-rust
 # image:
