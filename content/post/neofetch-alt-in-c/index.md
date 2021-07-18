@@ -7,4 +7,5 @@ slug: neofetch-alt-in-c
 categories:
     - C Language
     - TUI Applications
+    - Bash
 ---
