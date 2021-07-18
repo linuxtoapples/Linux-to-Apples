@@ -1,6 +1,6 @@
 ---
 title: "C Language"
-description: "Anything in "
+description: "Nothing better than C!"
 slug: "c-language"
 # image:
 style:
