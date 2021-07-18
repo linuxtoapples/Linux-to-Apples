@@ -19,14 +19,14 @@ params:
     since: 2021
     customText: null
   dateFormat:
-    published: 'Jan 02, 2006'
-    lastUpdated: 'Jan 02, 2006 15:04 MST'
+    published: 'Jul 07, 2021'
+    lastUpdated: 'Jul 07, 2021 00:44 PST'
   sidebar:
-    emoji: "\U0001F365"
+    emoji: "🍎"
     subtitle: 'Linux to Apples is a place for GNU/Linux enthusiasts to learn and discover anything FOSS related'
     avatar:
-      local: true
-      src: img/avatar.png
+      local: false
+      src: https://raw.githubusercontent.com/linuxtoapples/Linux-to-Apples/master/ltalogo.png
   article:
     math: false
     toc: true
@@ -34,7 +34,7 @@ params:
       enabled: true
       default: Licensed under MIT
   comments:
-    enabled: true
+    enabled: false
     provider: disqus
     utterances:
       repo: null
@@ -57,7 +57,7 @@ params:
       visitor: null
       avatar: null
       emoji:
-        - 'https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo'
+        - '🍎'
       requiredMeta:
         - name
         - email
