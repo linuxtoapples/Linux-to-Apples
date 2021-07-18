@@ -1,5 +1,5 @@
 ---
 title: C Language
-slug: c-language
+slug: c language
 image: https://develop.spacemacs.org/layers/+lang/c-c++/img/ccpp.jpg
 ---
