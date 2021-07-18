@@ -1,6 +1,6 @@
 ---
 title: "C Language"
-description: "All Linux to Apples news and updates"
+description: "Anything in "
 slug: "c-language"
 # image:
 style:
