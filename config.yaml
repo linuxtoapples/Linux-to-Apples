@@ -32,7 +32,7 @@ params:
     toc: true
     license:
       enabled: true
-      default: Licensed under CC BY-NC-SA 4.0
+      default: Licensed under MIT
   comments:
     enabled: true
     provider: disqus
